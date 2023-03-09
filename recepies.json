@@ -1,0 +1,30 @@
+[
+  {
+    "recepieName": "pasta bolognese",
+    "description": "Pasta med köttfärsås",
+    "ingredients": [
+      "nötfärs",
+      "grönsaker",
+      "tomat"
+    ],
+    "prepTime": "2 timmar"
+  },
+  {
+    "recepieName": "pasta carbonara",
+    "description": "Pasta med spagetti, fläsk och ägg",
+    "ingredients": [
+      "rimmat fläsk",
+      "ägg",
+      "parmesan"
+    ],
+    "prepTime": "30 minuter"
+  },
+  {
+    "recepieName": "kött bular med gräddsås",
+    "description": "en klassiker för barnen",
+    "ingredients": [
+      "nötfärs, grädde, fond, lök, ägg"
+    ],
+    "prepTime": "60 minuter"
+  }
+]
